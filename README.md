@@ -8,9 +8,9 @@ AP es la contracción de ante proyecto. Es un documento que contiene informació
 
 ## Ejecución / Instalación
 Se ejecuta como un script. Puede distribuirse a usuarios windows pasándolo como una aplicación. Utilicé pyinstaller:
-'''pyinstaller --onefile autoap.py'''
+>pyinstaller --onefile autoap.py
 
 ## TODO Pendientes
 * En el campo email eliminar < > por algún motivo rompe el word.
 * Generar el directorio \salida_dd_mm_aa (hecho)
-  Verificar si existe -> \salida_dd_mm_aa_vN+1
+* Verificar si existe directorio => \salida_dd_mm_aa_vN+1
