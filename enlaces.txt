@@ -1,0 +1,5 @@
+La librería docxtpl está bien documentada:
+https://docxtpl.readthedocs.io/en/latest/
+https://github.com/elapouya/python-docx-template/blob/master/docs/index.rst
+Ver ejemplos en:
+https://github.com/elapouya/python-docx-template/tree/master/tests
